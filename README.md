@@ -12,10 +12,10 @@
   <a href="mailto:ankitsingh92004.correspondence@gmail.com">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">
   </a>
-  <a href="https://www.linkedin.com/in/patrickguo/">
+  <a href="https://www.linkedin.com/in/ankit-singh-ba1904218/">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">
   </a>
-  <a href="https://www.kaggle.com/shpatrickguo">
+  <a href="https://www.kaggle.com/sinkant9">
     <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql">
