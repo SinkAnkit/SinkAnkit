@@ -88,4 +88,8 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 <br>
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SinkAnkit&theme=highcontrast&card_width=900&card_height=300&hide_border=true)](https://git.io/streak-stats)
+
+</div>
