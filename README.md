@@ -35,6 +35,7 @@ Language / IDE           |  <img src="https://cdn.jsdelivr.net/gh/devicons/devic
 Tool / Framework         |     <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50px" alt="react" title="react"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60px" alt="bootstrap" title="bootstrap"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git"> <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node"> <img src= "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" title="figma"> <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">  <img alt="jquery" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="50" title="jQuery"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="50" title="nextjs"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="nextjs" width="50" title="nextjs"> 
 Database         |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" title="mysql"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50px" title="sqlite"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="postgresql">
 Domain Knownledge        | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)
+<br>
 
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
@@ -71,3 +72,12 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="postgresql">
 </p>
   -->
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SinkAnkit.visitor-badge)
+<br>
+<br>
+[![SinkAnkit's's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SinkAnkit&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/SinkAnkit/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinkAnkit&hide_progress=true&theme=dark#gh-dark-mode-only&card_width=2000)
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SinkAnkit&theme=highcontrast&card_width=900&card_height=300&hide_border=true)](https://git.io/streak-stats)
