@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/4CLbOgXPh8cAAAAd/dark-souls.gif" width="747px" height="358px"/>
+  <img src="https://media1.tenor.com/m/4CLbOgXPh8cAAAAd/dark-souls.gif" width="597px" height="286px"/>
 </div>
 
 <div align= "center">
