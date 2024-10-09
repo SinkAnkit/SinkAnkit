@@ -1,16 +1,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
-
-<h1> < Welcome/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
- 
 </div>
-<br>
-<br>
+<div style="margin-bottom: 20px" align="center">
+  <h1 style="border-bottom: none; margin-bottom: 8px">
+    < Welcome /> Thank you for visiting <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />
+  </h1>
+</div>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/4CLbOgXPh8cAAAAd/dark-souls.gif"/>
+</div>
+
+<br>
+<br>
 
 <!-- <p align="center">
   <a href="mailto:ankitsingh92004.correspondence@gmail.com">
@@ -84,7 +86,6 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 <div align="center">
   
   [![SinkAnkit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SinkAnkit&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/SinkAnkit/github-readme-stats#gh-dark-mode-only)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinkAnkit&hide_progress=true&theme=dark#gh-dark-mode-only&card_width=2000)
   
 </div>
