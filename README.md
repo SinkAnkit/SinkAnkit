@@ -11,6 +11,12 @@
   <img src="https://media1.tenor.com/m/4CLbOgXPh8cAAAAd/dark-souls.gif" width="747px" height="358px"/>
 </div>
 
+<div align= "center">
+  
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SinkAnkit.visitor-badge)
+
+</div>
+
 <br>
 <br>
 
@@ -25,7 +31,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 <br>
 <br>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SinkAnkit.visitor-badge)
+
 <br>
 <br>
 
