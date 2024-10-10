@@ -19,7 +19,7 @@
 
 <br>
 <br>
-
+<br>
 
 Property                 | Data  
 -------------------------|------
@@ -33,7 +33,7 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 
 <br>
-<br>
+
 
 <div align="center">
   
