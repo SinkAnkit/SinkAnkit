@@ -30,3 +30,22 @@ Domain Knownledge        | ![Computer Science Development Badge](https://img.shi
 
 <br>
 <br>
+
+
+<br>
+
+
+<div align="center">
+  
+  [![SinkAnkit's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SinkAnkit&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/SinkAnkit/github-readme-stats#gh-dark-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinkAnkit&hide_progress=true&theme=dark#gh-dark-mode-only&card_width=2000)
+  
+</div>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SinkAnkit&theme=highcontrast&card_width=900&card_height=300&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
